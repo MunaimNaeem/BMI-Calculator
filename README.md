@@ -1,4 +1,4 @@
-# munaim_bmi
+# BMI CALCULATOR USING FLUTTER
 
 A new Flutter application.
 
